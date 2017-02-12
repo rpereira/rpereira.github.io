@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/rpereira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rpereira.github.io
+  * I am rpereira (https://keybase.io/rpereira) on keybase.
+  * I have a public key with fingerprint 8761 BC55 855F C177 AE74  E405 F2D9 7CF6 F115 6874
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f8c6740aeffb69efaba3399499c88c99b393037ab43b2f6b9ecaefa9dbbbddad0a",
+            "fingerprint": "8761bc55855fc177ae74e405f2d97cf6f1156874",
+            "host": "keybase.io",
+            "key_id": "f2d97cf6f1156874",
+            "kid": "0101f8c6740aeffb69efaba3399499c88c99b393037ab43b2f6b9ecaefa9dbbbddad0a",
+            "uid": "51e5b8dcc3cf0337434ab815b9c43219",
+            "username": "rpereira"
+        },
+        "service": {
+            "hostname": "rpereira.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486901056,
+    "expire_in": 157680000,
+    "prev": "5250cb2a38397ed398aab6b14385b8535ee8433a5196a4d14a4297361cd9a9e2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1MFFcUXUDtuiLUQKMVYnBkoYkEZ3a+l9IQl6IWEVBSLYq782be7A7CzjK7
+IPKhVgUqaEqpKEoDhqQKrkgRXdhardQYmlJobaKViqlWumK/UklFG7F0hrZ/mv7s
++/Py7jvn3HNubv38EJ0+aGKkYvLhCw5P0OADoNt0PDO1HAGysAMxlyPb4MwFCwTo
+9li3SQJiRlAMxUSGp2gC5aAoAoqFIgc4HGdZgmV5huFZFuAsjuI0BwgcmEQKsJBX
+sRwrAAAEgRNQDklARMlph4pLkZweVZahKQzwJMmQpMhjNM1BmoAESoomgaV5kRIx
+jKQYmlCJDtmtMVRzgHPDRElWa+rDOmPvP/D/s+/iGTkSgyRgBJ7HeRHFcZrACQ4w
+GAlYnsBNGKsB3VBxcoVQRSsuqEBJ4ZDKBEStlkg81AarJfkXItEueRzF4K9ULkX2
+yLxcoP47PB6X26zxPTtcGmE7BNa/paxAcgrqNFVGCVTckuxEzJiK5D2Spo0RDMWq
+8UkqAYGlLkmBVklDkDTFoOrR+sASLdNWE4nywMThDM7SUMBZhuMABTACZ9SwJE5C
+yBA4zpEYS3GEgBEcYWJpnMJ4geVYaEK0dEVOGTEzqk/Ormq6JbuT8xQrEKk07A+O
+nqUL0uvmzA7W9kxnmPv8P8vnTAmfTnv1Sdmzt7IbTleBmwGYWz3c3ejvzfLNiaut
+Sg4kdq0o2dU6kf4lc6b12O6+TaPNI4+2VGC2K10H2jPOdmavMcasOyLEtV54JqAH
+L199O9+ynmp792Syd1Xi8OeLQVTSEsul5IbAgmbdrycac726r4eXLqEM5sOpFe/7
+lXfCXIEXHUXtMT/trPzY+Mby5eNLwwTT+od611b97azyqqrp3pFF9bY8MzHLdyLV
+nH+kwrA/fezsxhyyanziZE3Up09Tyrrv3YqqjvEPmMYKK9Jebzo0sadmcXOt7r26
+3VdSvm162tVR2j86+Fzro+B5k02njMsGG+Nj076Immd72dbecqveR1Odq4mBNxe1
+373BdGY08wWRct3p6yunCgz0L5n9HRnfnY/IZR+TWcYn5372RlzztgT7ju39Su5M
+2Rcf9sBrv7/5D9vajbWvfCMU9hz4PbR3anWKpWffyA/+dda11ZYN9rpDPw5t77mZ
+Xf9Rflv/xbzhsjvht9N7Ms7nj8cltgV2hrzUF3HNJ+vJi2As6YZFmvr+6D3jlqN3
+y3+LK2p53HVZP3fFYfNC2wYpJzKpNF5cNcRfj5UXFnzQkHMmNhx1OEOZlmjrwPFd
+n+h7Rrs3D10N3SMu8Pdf8q3MXDZ5zs+A6LCaoVJ89uT8vPsXLIEP9zbfmf4ssulU
+R0i7GHSw97U+UW9NMv4J
+=LSba
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rpereira
+
+==================================================================
